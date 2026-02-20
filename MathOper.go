@@ -1,6 +1,6 @@
 // This library implements mathematical operations
 // The best website about mathematics https://www.mathsisfun.com/numbers/addition.html
-package MathOper
+package ch10_ex1
 
 import "golang.org/x/exp/constraints"
 
